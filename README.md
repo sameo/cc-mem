@@ -1,2 +1,2 @@
-# clearcontainers-mem
+# cc-mem
 Clear Containers memory consumption
